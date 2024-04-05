@@ -1,6 +1,6 @@
 # farmer
 
-`farmer` is a Server and Client for monitoring and recording various data points on a farm.
+`farmer` is a Server and Client(s) application for monitoring and recording various data points on a farm.
 
 Sensor metrics include:
 
