@@ -1,3 +1,3 @@
 module github.com/qba73/farmer
 
-go 1.22.1
+go 1.22
